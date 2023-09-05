@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #000000;
+text-decoration: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    color: #000;
+    background-color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+}
+#part{
+    min-width: 250px;
+    margin: 5px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.header{
+    background-color: #bdbbba;
+    width: 100%;
+    height: 90px;
+    display: flex;
+}
+.account-img{
+    padding: 5px;
+    width: 70px;
+}
+.logo{
+    font-size: 35px;
+    margin: 5px 20px;
+}
+.part1-2{
+    font-size: 20px;
+    margin: 5px 10px;
+}
+.part2{
+    border-radius: 5px;
+    background-color: #fff;
+    width: 174mm;
+    display: flex;
+    height: 70px;
+    margin: 7px 7px;
+    align-items: center;
+}
+#part2-1{
+    display: flex;
+    align-items: center;
+}
+.header3-1{
+    width: 40px;
+    padding: 4px 15px;
+}
+.part2-2{
+    font-size: 15px;
+    padding: 7px 10px;
+}
+.main-secttion{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
